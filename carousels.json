@@ -1,18 +1,522 @@
 [
-  {"category": "relationships", "hook": "5 signs you're settling in love", "points": ["You explain away red flags before anyone asks.", "You're relieved when plans get cancelled.", "You keep waiting for 'someday' to arrive.", "You shrink your needs to keep the peace.", "You're lonely even when they're in the room."], "cta": "Love shouldn't feel like a compromise on yourself. Save this.", "caption": "Settling rarely feels dramatic. It feels like small silences adding up. Which sign hit closest? Tell me below."},
-  {"category": "relationships", "hook": "Texts that mean more than 'I love you'", "points": ["'Did you eat? Go eat.'", "'Text me when you get home.'", "'Saw this and thought of you.'", "'No rush, take your time.'", "'I'm proud of you.'"], "cta": "Send this to someone who texts like that.", "caption": "Real love is mostly small, boring, consistent. Drop your favourite text like this in the comments."},
-  {"category": "relationships", "hook": "Green flags nobody talks about", "points": ["They apologise without a 'but'.", "They're kind to waiters and strangers.", "They let you change your mind.", "They celebrate your wins loudly.", "Arguments feel like teamwork, not war."], "cta": "Screenshot this for your next situationship.", "caption": "We obsess over red flags and forget to notice the green ones. Add yours below."},
-  {"category": "relationships", "hook": "What you imagine vs. what 'we need to talk' means", "points": ["Your brain: they're leaving.", "Your brain: I did something wrong.", "Your brain: I'll rehearse 14 speeches.", "Reality: they want to pick a restaurant.", "Reality: usually, it's way smaller."], "cta": "Overthinkers, this one's for you. Share it.", "caption": "Your imagination is a very dramatic screenwriter. Who else rehearses full arguments in the shower?"},
-  {"category": "relationships", "hook": "Signs you've outgrown someone", "points": ["Your good news doesn't excite them.", "You edit yourself around them.", "Conversations feel like small talk.", "You miss who you were before.", "Leaving feels sad, but also light."], "cta": "Outgrowing someone isn't failure. Save this.", "caption": "Some people are chapters, not the whole book. Be gentle with yourself."},
-  {"category": "relationships", "hook": "Stop saying this to your partner", "points": ["'You always...'", "'Fine.' (when it's not fine)", "'I don't care, you pick.'", "'It's nothing.'", "Say what you feel instead. Kindly, clearly."], "cta": "Better words, better love. Send to your person.", "caption": "Clear beats cryptic. Which one have you caught yourself saying?"},
-  {"category": "relationships", "hook": "Healing after a breakup: the honest version", "points": ["Some days you'll feel fine. Then you won't.", "Deleting the photos is allowed.", "Not texting them is a daily decision.", "Closure is something you give yourself.", "One day you'll think of them and just... shrug."], "cta": "You're doing better than you think. Save this.", "caption": "Healing isn't a straight line. Sending a hug to anyone in the messy middle."},
-  {"category": "relationships", "hook": "Things a good partner never makes you do", "points": ["Beg for basic respect.", "Guess where you stand.", "Compete for their attention.", "Apologise for having feelings.", "Prove you deserve love."], "cta": "Read that last one twice. Share it.", "caption": "You are not too much. You're just with someone who can't hold it. Tag a friend who needs this."},
-  {"category": "motivation", "hook": "Stop saying this to yourself", "points": ["'I'm too late.' Late is still moving.", "'I'm not ready.' Nobody is.", "'What if I fail?' What if you don't?", "'Others are ahead.' It's not a race.", "'I'll start Monday.' Start the next ten minutes."], "cta": "Talk to yourself like someone you love. Save this.", "caption": "Your inner voice is on repeat all day. Make it a good playlist. Which line do you need to retire?"},
-  {"category": "motivation", "hook": "Small habits that quietly change your life", "points": ["Make your bed. Win the first task.", "Walk for 10 minutes. Think clearer.", "Write down one thing you're grateful for.", "Phone away 30 minutes before sleep.", "Do the hard thing first."], "cta": "Pick one. Start today. Save this.", "caption": "You don't need a new life, just a slightly better day, repeated. Which habit are you starting?"},
-  {"category": "motivation", "hook": "Reminders for when you feel behind", "points": ["Comparison edits everyone's highlight reel.", "Slow progress is still progress.", "Rest is part of the work.", "Your timeline is yours alone.", "You're growing even when it's quiet."], "cta": "Breathe. You're not behind. Send this to a friend.", "caption": "Behind whom, exactly? Drop a 💛 if you needed this today."},
-  {"category": "motivation", "hook": "Why you're tired (and it isn't laziness)", "points": ["You're carrying things you never say out loud.", "You say yes when you mean no.", "You're always 'on' for everyone else.", "You never let a day feel finished.", "Rest isn't a reward. It's maintenance."], "cta": "Permission to rest, granted. Save this.", "caption": "Burnout isn't weakness, it's a signal. What's one thing you can put down this week?"},
-  {"category": "motivation", "hook": "Things I wish I knew at 20", "points": ["Most people are too busy to judge you.", "Consistency beats intensity.", "Your peace is worth more than being right.", "Not every friendship has to last forever.", "Start before you feel ready."], "cta": "Tag someone who needs a head start.", "caption": "Hindsight is free but expensive. What would you tell your 20-year-old self?"},
-  {"category": "motivation", "hook": "How to start when you don't feel like it", "points": ["Shrink it: just 5 minutes.", "Make it embarrassingly easy.", "Start messy. Fix later.", "Motivation follows action, not the reverse.", "Done badly beats perfect and never."], "cta": "Your future self is cheering. Save this.", "caption": "Waiting to feel ready is the most expensive habit. What are you starting in 5 minutes?"},
-  {"category": "motivation", "hook": "Red flags in your own routine", "points": ["Scrolling instead of sleeping.", "Saying 'busy' when you mean 'avoiding'.", "Starting five things, finishing none.", "Complaining more than planning.", "Waiting for permission nobody is giving."], "cta": "Be honest, then be kind. Share this.", "caption": "Awareness is step one. Which one is you right now? No judgment here."},
-  {"category": "motivation", "hook": "Soft reminders for a hard week", "points": ["You don't have to fix everything today.", "Asking for help is strength.", "Bad days don't cancel good progress.", "Drink water. Eat something. Sleep.", "This week will end. You'll still be here."], "cta": "Send this to someone having a hard week.", "caption": "Be a little gentler with yourself this week. Sending strength to everyone who needs it."}
+ {
+  "category": "relationships",
+  "hook": "5 signs you're settling in love",
+  "points": [
+   "You explain away red flags before anyone asks.",
+   "You're relieved when plans get cancelled.",
+   "You keep waiting for 'someday' to arrive.",
+   "You shrink your needs to keep the peace.",
+   "You're lonely even when they're in the room."
+  ],
+  "cta": "Love shouldn't feel like a compromise on yourself. Save this.",
+  "caption": "Settling rarely feels dramatic. It feels like small silences adding up. Which sign hit closest? Tell me below."
+ },
+ {
+  "category": "relationships",
+  "hook": "Texts that mean more than 'I love you'",
+  "points": [
+   "'Did you eat? Go eat.'",
+   "'Text me when you get home.'",
+   "'Saw this and thought of you.'",
+   "'No rush, take your time.'",
+   "'I'm proud of you.'"
+  ],
+  "cta": "Send this to someone who texts like that.",
+  "caption": "Real love is mostly small, boring, consistent. Drop your favourite text like this in the comments."
+ },
+ {
+  "category": "relationships",
+  "hook": "Green flags nobody talks about",
+  "points": [
+   "They apologise without a 'but'.",
+   "They're kind to waiters and strangers.",
+   "They let you change your mind.",
+   "They celebrate your wins loudly.",
+   "Arguments feel like teamwork, not war."
+  ],
+  "cta": "Screenshot this for your next situationship.",
+  "caption": "We obsess over red flags and forget to notice the green ones. Add yours below."
+ },
+ {
+  "category": "relationships",
+  "hook": "What you imagine vs. what 'we need to talk' means",
+  "points": [
+   "Your brain: they're leaving.",
+   "Your brain: I did something wrong.",
+   "Your brain: I'll rehearse 14 speeches.",
+   "Reality: they want to pick a restaurant.",
+   "Reality: usually, it's way smaller."
+  ],
+  "cta": "Overthinkers, this one's for you. Share it.",
+  "caption": "Your imagination is a very dramatic screenwriter. Who else rehearses full arguments in the shower?"
+ },
+ {
+  "category": "relationships",
+  "hook": "Signs you've outgrown someone",
+  "points": [
+   "Your good news doesn't excite them.",
+   "You edit yourself around them.",
+   "Conversations feel like small talk.",
+   "You miss who you were before.",
+   "Leaving feels sad, but also light."
+  ],
+  "cta": "Outgrowing someone isn't failure. Save this.",
+  "caption": "Some people are chapters, not the whole book. Be gentle with yourself."
+ },
+ {
+  "category": "relationships",
+  "hook": "Stop saying this to your partner",
+  "points": [
+   "'You always...'",
+   "'Fine.' (when it's not fine)",
+   "'I don't care, you pick.'",
+   "'It's nothing.'",
+   "Say what you feel instead. Kindly, clearly."
+  ],
+  "cta": "Better words, better love. Send to your person.",
+  "caption": "Clear beats cryptic. Which one have you caught yourself saying?"
+ },
+ {
+  "category": "relationships",
+  "hook": "Healing after a breakup: the honest version",
+  "points": [
+   "Some days you'll feel fine. Then you won't.",
+   "Deleting the photos is allowed.",
+   "Not texting them is a daily decision.",
+   "Closure is something you give yourself.",
+   "One day you'll think of them and just... shrug."
+  ],
+  "cta": "You're doing better than you think. Save this.",
+  "caption": "Healing isn't a straight line. Sending a hug to anyone in the messy middle."
+ },
+ {
+  "category": "relationships",
+  "hook": "Things a good partner never makes you do",
+  "points": [
+   "Beg for basic respect.",
+   "Guess where you stand.",
+   "Compete for their attention.",
+   "Apologise for having feelings.",
+   "Prove you deserve love."
+  ],
+  "cta": "Read that last one twice. Share it.",
+  "caption": "You are not too much. You're just with someone who can't hold it. Tag a friend who needs this."
+ },
+ {
+  "category": "motivation",
+  "hook": "Stop saying this to yourself",
+  "points": [
+   "'I'm too late.' Late is still moving.",
+   "'I'm not ready.' Nobody is.",
+   "'What if I fail?' What if you don't?",
+   "'Others are ahead.' It's not a race.",
+   "'I'll start Monday.' Start the next ten minutes."
+  ],
+  "cta": "Talk to yourself like someone you love. Save this.",
+  "caption": "Your inner voice is on repeat all day. Make it a good playlist. Which line do you need to retire?"
+ },
+ {
+  "category": "motivation",
+  "hook": "Small habits that quietly change your life",
+  "points": [
+   "Make your bed. Win the first task.",
+   "Walk for 10 minutes. Think clearer.",
+   "Write down one thing you're grateful for.",
+   "Phone away 30 minutes before sleep.",
+   "Do the hard thing first."
+  ],
+  "cta": "Pick one. Start today. Save this.",
+  "caption": "You don't need a new life, just a slightly better day, repeated. Which habit are you starting?"
+ },
+ {
+  "category": "motivation",
+  "hook": "Reminders for when you feel behind",
+  "points": [
+   "Comparison edits everyone's highlight reel.",
+   "Slow progress is still progress.",
+   "Rest is part of the work.",
+   "Your timeline is yours alone.",
+   "You're growing even when it's quiet."
+  ],
+  "cta": "Breathe. You're not behind. Send this to a friend.",
+  "caption": "Behind whom, exactly? Drop a 💛 if you needed this today."
+ },
+ {
+  "category": "motivation",
+  "hook": "Why you're tired (and it isn't laziness)",
+  "points": [
+   "You're carrying things you never say out loud.",
+   "You say yes when you mean no.",
+   "You're always 'on' for everyone else.",
+   "You never let a day feel finished.",
+   "Rest isn't a reward. It's maintenance."
+  ],
+  "cta": "Permission to rest, granted. Save this.",
+  "caption": "Burnout isn't weakness, it's a signal. What's one thing you can put down this week?"
+ },
+ {
+  "category": "motivation",
+  "hook": "Things I wish I knew at 20",
+  "points": [
+   "Most people are too busy to judge you.",
+   "Consistency beats intensity.",
+   "Your peace is worth more than being right.",
+   "Not every friendship has to last forever.",
+   "Start before you feel ready."
+  ],
+  "cta": "Tag someone who needs a head start.",
+  "caption": "Hindsight is free but expensive. What would you tell your 20-year-old self?"
+ },
+ {
+  "category": "motivation",
+  "hook": "How to start when you don't feel like it",
+  "points": [
+   "Shrink it: just 5 minutes.",
+   "Make it embarrassingly easy.",
+   "Start messy. Fix later.",
+   "Motivation follows action, not the reverse.",
+   "Done badly beats perfect and never."
+  ],
+  "cta": "Your future self is cheering. Save this.",
+  "caption": "Waiting to feel ready is the most expensive habit. What are you starting in 5 minutes?"
+ },
+ {
+  "category": "motivation",
+  "hook": "Red flags in your own routine",
+  "points": [
+   "Scrolling instead of sleeping.",
+   "Saying 'busy' when you mean 'avoiding'.",
+   "Starting five things, finishing none.",
+   "Complaining more than planning.",
+   "Waiting for permission nobody is giving."
+  ],
+  "cta": "Be honest, then be kind. Share this.",
+  "caption": "Awareness is step one. Which one is you right now? No judgment here."
+ },
+ {
+  "category": "motivation",
+  "hook": "Soft reminders for a hard week",
+  "points": [
+   "You don't have to fix everything today.",
+   "Asking for help is strength.",
+   "Bad days don't cancel good progress.",
+   "Drink water. Eat something. Sleep.",
+   "This week will end. You'll still be here."
+  ],
+  "cta": "Send this to someone having a hard week.",
+  "caption": "Be a little gentler with yourself this week. Sending strength to everyone who needs it."
+ },
+ {
+  "category": "relationships",
+  "hook": "Love languages, translated",
+  "points": [
+   "Words: 'I'm proud of you' hits hardest.",
+   "Time: phone down, eyes up.",
+   "Gifts: it's the thought, not the price.",
+   "Acts: they just handle the thing.",
+   "Touch: a hand on your back says it all."
+  ],
+  "cta": "Which one is yours? Tell your partner. Save this.",
+  "caption": "Knowing how you receive love saves a lot of misunderstandings. Which language is yours?"
+ },
+ {
+  "category": "relationships",
+  "hook": "Why you keep attracting the wrong people",
+  "points": [
+   "You mistake intensity for chemistry.",
+   "You love potential more than reality.",
+   "You fear calm because it feels boring.",
+   "You ignore the first red flag to be 'chill'.",
+   "Pick consistency. It's the new romantic."
+  ],
+  "cta": "Choose peace over chaos. Share this.",
+  "caption": "Healthy can feel unfamiliar at first. That's not boredom, that's safety. Thoughts?"
+ },
+ {
+  "category": "relationships",
+  "hook": "How to argue without wrecking things",
+  "points": [
+   "Attack the problem, not the person.",
+   "Take a break before you say something you can't unsay.",
+   "Listen to understand, not to win.",
+   "Say 'I feel' instead of 'you always'.",
+   "End with a hug, not a score."
+  ],
+  "cta": "Save for your next disagreement.",
+  "caption": "Every couple argues. The good ones argue kindly. What helps you cool down?"
+ },
+ {
+  "category": "relationships",
+  "hook": "Situationship checklist",
+  "points": [
+   "Plans are always last minute.",
+   "You get warmth only at night.",
+   "Labels make them change the subject.",
+   "You feel anxious more than happy.",
+   "You deserve clarity, not crumbs."
+  ],
+  "cta": "Ask for clarity. Send this to a friend in the grey zone.",
+  "caption": "A situationship isn't a crime, but being unclear is exhausting. Tag a friend who needs this."
+ },
+ {
+  "category": "relationships",
+  "hook": "Things to stop doing after a breakup",
+  "points": [
+   "Checking their stories 'one last time'.",
+   "Rewriting history to only remember the good.",
+   "Texting at 2 AM.",
+   "Comparing your healing speed to theirs.",
+   "Blaming yourself for their choices."
+  ],
+  "cta": "Protect your peace. Save this.",
+  "caption": "Recovery is boring, daily, and worth it. What's helping you move on?"
+ },
+ {
+  "category": "relationships",
+  "hook": "Small things that keep love alive",
+  "points": [
+   "Say good morning first.",
+   "Ask a question beyond 'how was your day'.",
+   "Flirt with them like you did on date one.",
+   "Say thank you for ordinary things.",
+   "Be curious about who they're becoming."
+  ],
+  "cta": "Do one today. Share this with your person.",
+  "caption": "Love isn't kept alive by grand gestures, but by tiny daily ones. What's yours?"
+ },
+ {
+  "category": "relationships",
+  "hook": "Friendship red flags",
+  "points": [
+   "They only call when they need something.",
+   "Your wins make them quiet.",
+   "They gossip about everyone to you.",
+   "You feel drained, not refilled.",
+   "Real friends feel like a deep breath."
+  ],
+  "cta": "Tag the friend who feels like a deep breath.",
+  "caption": "Quality over quantity, always. Who is your deep-breath friend?"
+ },
+ {
+  "category": "relationships",
+  "hook": "Self-love isn't selfish",
+  "points": [
+   "Saying no is complete sentence.",
+   "You can love people and still leave.",
+   "Boundaries are bridges, not walls.",
+   "You're allowed to want more.",
+   "Treat yourself like someone you're raising kindly."
+  ],
+  "cta": "You're worth your own loyalty. Save this.",
+  "caption": "You can't pour from an empty cup, and you shouldn't have to. What boundary are you setting?"
+ },
+ {
+  "category": "relationships",
+  "hook": "Texts to send instead of silence",
+  "points": [
+   "'I need a minute, but I'm not leaving.'",
+   "'That hurt me, can we talk?'",
+   "'I miss you. Call me when you're free.'",
+   "'I was wrong. I'm sorry.'",
+   "'Thank you for being patient with me.'"
+  ],
+  "cta": "Send one today.",
+  "caption": "Clear words cost less than silence. Which of these needs sending?"
+ },
+ {
+  "category": "relationships",
+  "hook": "Overthinking in love, decoded",
+  "points": [
+   "No reply = they're busy, not bored of you.",
+   "A short text = a short text.",
+   "Silence isn't always punishment.",
+   "Ask, don't assume.",
+   "Peace is trusting without checking."
+  ],
+  "cta": "Put the phone down. Share this.",
+  "caption": "Your anxiety writes stories your partner never read. Who else overthinks?"
+ },
+ {
+  "category": "relationships",
+  "hook": "Dating in your 20s, honestly",
+  "points": [
+   "You don't need to rush into anything.",
+   "Chemistry fades. Kindness doesn't.",
+   "Be single without being lonely.",
+   "Date people who talk about the future.",
+   "Don't shrink for anyone's comfort."
+  ],
+  "cta": "Take your time. Save this.",
+  "caption": "Nobody has it figured out. What's one dating lesson you learned the hard way?"
+ },
+ {
+  "category": "relationships",
+  "hook": "How to be a safe person",
+  "points": [
+   "Listen without fixing.",
+   "Keep their secrets, always.",
+   "Stay calm when they're vulnerable.",
+   "Admit when you're wrong.",
+   "Show up the same on good and bad days."
+  ],
+  "cta": "Be the person you needed. Share this.",
+  "caption": "Safe people are rare. Be one. Who's yours?"
+ },
+ {
+  "category": "motivation",
+  "hook": "Your 5-minute reset",
+  "points": [
+   "Stand up. Stretch for 60 seconds.",
+   "Drink a full glass of water.",
+   "Write down the one thing that matters today.",
+   "Breathe slowly for 4 counts, out for 6.",
+   "Do the first tiny step. Just one."
+  ],
+  "cta": "Try it right now. Save this.",
+  "caption": "Reset beats restart. Which step will you do first?"
+ },
+ {
+  "category": "motivation",
+  "hook": "Why you procrastinate (it's not laziness)",
+  "points": [
+   "The task feels too big.",
+   "You're scared it won't be perfect.",
+   "You don't know the first step.",
+   "You're tired, not lazy.",
+   "Break it down until it feels laughably small."
+  ],
+  "cta": "Make it smaller. Share this.",
+  "caption": "Procrastination is usually fear in a disguise. What are you avoiding today?"
+ },
+ {
+  "category": "motivation",
+  "hook": "Habits of calm people",
+  "points": [
+   "They don't reply while angry.",
+   "They sleep like it matters.",
+   "They say no without a speech.",
+   "They let small things stay small.",
+   "They focus on what they can control."
+  ],
+  "cta": "Calm is a skill. Save this.",
+  "caption": "You can train calm like a muscle. Which habit is next for you?"
+ },
+ {
+  "category": "motivation",
+  "hook": "When you feel stuck",
+  "points": [
+   "Change one tiny thing in your routine.",
+   "Talk to someone who sees you clearly.",
+   "Walk outside without your phone.",
+   "Write the worst case, then the next step.",
+   "Stuck is a pause, not a verdict."
+  ],
+  "cta": "Move one inch today. Save this.",
+  "caption": "Even a slow day is still moving. What would an inch forward look like?"
+ },
+ {
+  "category": "motivation",
+  "hook": "Money mindset shifts",
+  "points": [
+   "Spend on growth, not impressions.",
+   "Pay yourself first, even small.",
+   "Compare to your past self only.",
+   "Learn one skill that earns.",
+   "Wealth is built boring, consistently."
+  ],
+  "cta": "Start small. Share this with a friend.",
+  "caption": "Not financial advice, just habits that tend to help. What's one you're starting?"
+ },
+ {
+  "category": "motivation",
+  "hook": "Study and work smarter",
+  "points": [
+   "Work in 25-minute sprints.",
+   "Phone in another room.",
+   "Do the hardest task first.",
+   "Teach it to someone else.",
+   "Sleep is part of the plan."
+  ],
+  "cta": "Try a sprint now. Save this.",
+  "caption": "Smart beats long hours. Which tip will you try today?"
+ },
+ {
+  "category": "motivation",
+  "hook": "How to stop caring what people think",
+  "points": [
+   "Most people think about themselves.",
+   "Their opinion is their story, not your truth.",
+   "Critics rarely build anything.",
+   "Choose three people whose opinion matters.",
+   "Then go do the thing."
+  ],
+  "cta": "Be unbothered. Share this.",
+  "caption": "Imagine how free you'd be. What would you do if nobody was watching?"
+ },
+ {
+  "category": "motivation",
+  "hook": "Morning routine that doesn't suck",
+  "points": [
+   "Don't touch your phone for 15 minutes.",
+   "Open the curtains. Get light.",
+   "Move your body a little.",
+   "Eat something real.",
+   "Pick today's one priority."
+  ],
+  "cta": "Tomorrow, try two of these. Save.",
+  "caption": "A good morning isn't about waking at 5 AM, it's about waking on purpose. Your routine?"
+ },
+ {
+  "category": "motivation",
+  "hook": "Fear, translated",
+  "points": [
+   "Fear says 'you'll fail.' Truth: you'll learn.",
+   "Fear says 'they'll laugh.' Truth: they're busy.",
+   "Fear says 'wait.' Truth: ready is a myth.",
+   "Fear says 'stay safe.' Truth: safe is stuck.",
+   "Do it scared."
+  ],
+  "cta": "Bravery is just fear that kept walking.",
+  "caption": "What are you scared to start? Say it below, then do one step."
+ },
+ {
+  "category": "motivation",
+  "hook": "Signs you're healing and growing",
+  "points": [
+   "You pause before reacting.",
+   "You say no without guilt.",
+   "You celebrate small wins.",
+   "Old triggers don't hit as hard.",
+   "You choose peace over proving a point."
+  ],
+  "cta": "Look how far you've come. Save this.",
+  "caption": "Growth is quiet, and you're doing it. Which sign do you see in yourself?"
+ },
+ {
+  "category": "motivation",
+  "hook": "Be your own motivation",
+  "points": [
+   "Keep promises to yourself.",
+   "Track the tiny wins.",
+   "Make your space inspiring.",
+   "Surround yourself with doers.",
+   "Remember why you started."
+  ],
+  "cta": "You've got this. Share with someone who needs it.",
+  "caption": "Motivation fades, but discipline stays. What promise are you keeping this week?"
+ },
+ {
+  "category": "motivation",
+  "hook": "Things to do on a bad day",
+  "points": [
+   "Lower the bar. Do the minimum.",
+   "Cry if you need to.",
+   "Message one person you trust.",
+   "Take a shower. Reset the body.",
+   "Tomorrow gets a fresh page."
+  ],
+  "cta": "Be kind to yourself today. Save this.",
+  "caption": "Bad days don't mean a bad life. Sending love to anyone having one today."
+ }
 ]
