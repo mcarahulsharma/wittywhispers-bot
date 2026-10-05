@@ -32,9 +32,15 @@
   }
 
   function safeError(data, response) {
-    const message = data && data.error && data.error.message;
-    if (message) return message.replace(/AIza[0-9A-Za-z_-]{20,}/g, "[redacted]");
-    return "Google returned HTTP " + response.status + ". Check the API key, model access, and billing/quota.";
+    const error = data && data.error;
+    if (error) {
+      const code = error.code || response.status;
+      const message = error.message || "No error message returned.";
+      return "Google API error (" + code + "): " +
+        message.replace(/AIza[0-9A-Za-z_-]{20,}/g, "[redacted]");
+    }
+    return "Google returned HTTP " + response.status +
+      ". No structured error was returned. Check the API key, model access, and billing/quota.";
   }
 
   toggleKey.addEventListener("click", () => {
