@@ -14,8 +14,88 @@
   const result = document.getElementById("result");
   const output = document.getElementById("generated-image");
   const download = document.getElementById("download");
+  const unsplashKey = document.getElementById("unsplash-key");
+  const unsplashQuery = document.getElementById("unsplash-query");
+  const unsplashSearch = document.getElementById("unsplash-search");
+  const unsplashResults = document.getElementById("unsplash-results");
 
   let objectUrl = null;
+
+  async function searchUnsplash() {
+    const key = unsplashKey.value.trim();
+    const query = unsplashQuery.value.trim();
+    if (!key) { setStatus("Enter your Unsplash Access Key.", "error"); return; }
+    if (!query) { setStatus("Enter an Unsplash search query.", "error"); return; }
+
+    unsplashSearch.disabled = true;
+    unsplashSearch.textContent = "Searching…";
+    unsplashResults.innerHTML = "";
+    setStatus("Searching Unsplash…");
+
+    try {
+      const response = await fetch(
+        "https://api.unsplash.com/search/photos?per_page=6&orientation=portrait&query=" +
+        encodeURIComponent(query),
+        {
+          headers: { "Authorization": "Client-ID " + key },
+          cache: "no-store",
+          credentials: "omit",
+          referrerPolicy: "no-referrer"
+        }
+      );
+      const data = await response.json().catch(() => null);
+      if (!response.ok) {
+        throw new Error("Unsplash API error (" + response.status + "): " +
+          ((data && data.errors && data.errors[0]) || "Request failed."));
+      }
+
+      const photos = (data && data.results) || [];
+      if (!photos.length) {
+        setStatus("No Unsplash photos found for that query.", "error");
+        return;
+      }
+
+      unsplashResults.innerHTML = photos.map(photo => {
+        const name = photo.user && photo.user.name ? photo.user.name : "Unknown photographer";
+        const profile = photo.user && photo.user.links ? photo.user.links.html : "https://unsplash.com";
+        const image = photo.urls && (photo.urls.regular || photo.urls.small);
+        const page = photo.links && photo.links.html;
+        const downloadLocation = photo.links && photo.links.download_location;
+        const encoded = encodeURIComponent(JSON.stringify({
+          image, page, profile, name, downloadLocation
+        }));
+        return '<article class="unsplash-card">' +
+          '<img src="' + image + '" alt="Unsplash photo by ' + name.replace(/"/g, "&quot;") + '">' +
+          '<div class="meta">Photo by <a href="' + profile + '?utm_source=wittywhispers&utm_medium=referral" target="_blank" rel="noopener noreferrer">' + name + '</a> on Unsplash</div>' +
+          '<button class="secondary use-unsplash" type="button" data-photo="' + encoded + '">Use as background</button>' +
+        '</article>';
+      }).join("");
+
+      unsplashResults.querySelectorAll(".use-unsplash").forEach(button => {
+        button.addEventListener("click", async () => {
+          const photo = JSON.parse(decodeURIComponent(button.dataset.photo));
+          output.src = photo.image;
+          result.hidden = false;
+          if (photo.downloadLocation) {
+            fetch(photo.downloadLocation + (photo.downloadLocation.includes("?") ? "&" : "?") +
+              "client_id=" + encodeURIComponent(unsplashKey.value.trim()), {
+              cache: "no-store", credentials: "omit", referrerPolicy: "no-referrer"
+            }).catch(() => {});
+          }
+          setStatus("Unsplash image selected. Attribution is shown with the result.", "success");
+        });
+      });
+
+      setStatus("Found " + photos.length + " Unsplash photos.", "success");
+    } catch (error) {
+      setStatus(error instanceof Error ? error.message : "Unsplash search failed.", "error");
+    } finally {
+      unsplashSearch.disabled = false;
+      unsplashSearch.textContent = "Search Unsplash";
+    }
+  }
+
+  unsplashSearch.addEventListener("click", searchUnsplash);
 
   function setStatus(message, kind = "") {
     status.textContent = message;
