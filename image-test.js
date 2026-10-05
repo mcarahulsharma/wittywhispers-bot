@@ -15,6 +15,7 @@
   const output = document.getElementById("generated-image");
   const download = document.getElementById("download");
   const unsplashKey = document.getElementById("unsplash-key");
+  const unsplashSecret = document.getElementById("unsplash-secret");
   const unsplashQuery = document.getElementById("unsplash-query");
   const unsplashSearch = document.getElementById("unsplash-search");
   const unsplashResults = document.getElementById("unsplash-results");
@@ -24,7 +25,9 @@
   async function searchUnsplash() {
     const key = unsplashKey.value.trim();
     const query = unsplashQuery.value.trim();
+    const secret = unsplashSecret.value.trim();
     if (!key) { setStatus("Enter your Unsplash Access Key.", "error"); return; }
+    if (!secret) { setStatus("Enter your Unsplash Secret Key.", "error"); return; }
     if (!query) { setStatus("Enter an Unsplash search query.", "error"); return; }
 
     unsplashSearch.disabled = true;
@@ -132,6 +135,8 @@
   clear.addEventListener("click", () => {
     form.reset();
     apiKey.value = "";
+    unsplashKey.value = "";
+    unsplashSecret.value = "";
     prompt.value = "";
     clearImage();
     setStatus("");
