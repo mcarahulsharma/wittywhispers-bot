@@ -1,0 +1,49 @@
+name: Post daily quote
+
+on:
+  schedule:
+    - cron: "30 3 * * *"   # 03:30 UTC = 09:00 AM IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: post-quote
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate image
+        run: python autopost.py generate
+
+      - name: Push image so Instagram can fetch it
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add posts
+          git commit -m "Add post image" || echo "nothing to commit"
+          git push
+
+      - name: Post to Instagram
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: python autopost.py post
+
+      - name: Save progress
+        run: |
+          git add state.json
+          git commit -m "Update state" || echo "nothing to commit"
+          git push
