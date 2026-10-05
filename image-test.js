@@ -112,11 +112,28 @@
         throw new Error(safeError(data, response));
       }
 
-      const base64 = data && data.output_image && data.output_image.data;
-      const mime = (data && data.output_image && data.output_image.mime_type) || "image/jpeg";
+      // The REST API may expose the image as output_image or inside steps[].content[].
+      let image = data && data.output_image;
+
+      if (!image && Array.isArray(data && data.steps)) {
+        for (const step of data.steps) {
+          if (Array.isArray(step.content)) {
+            const found = step.content.find(item =>
+              item && item.type === "image" && item.data
+            );
+            if (found) {
+              image = found;
+              break;
+            }
+          }
+        }
+      }
+
+      const base64 = image && image.data;
+      const mime = (image && image.mime_type) || "image/png";
 
       if (!base64) {
-        throw new Error("Google returned successfully but no image was found in output_image.");
+        throw new Error("Google completed the request but returned no image data. Response status: " + (data && data.status || "unknown"));
       }
 
       const binary = atob(base64);
