@@ -88,7 +88,7 @@
         input: text,
         response_format: {
           type: "image",
-          mime_type: "image/png",
+          mime_type: "image/jpeg",
           aspect_ratio: aspectRatio.value,
           image_size: imageSize.value
         }
@@ -113,7 +113,7 @@
       }
 
       const base64 = data && data.output_image && data.output_image.data;
-      const mime = (data && data.output_image && data.output_image.mime_type) || "image/png";
+      const mime = (data && data.output_image && data.output_image.mime_type) || "image/jpeg";
 
       if (!base64) {
         throw new Error("Google returned successfully but no image was found in output_image.");
