@@ -3,520 +3,1508 @@
   "category": "relationships",
   "hook": "5 signs you're settling in love",
   "points": [
-   "You explain away red flags before anyone asks.",
-   "You're relieved when plans get cancelled.",
-   "You keep waiting for 'someday' to arrive.",
-   "You shrink your needs to keep the peace.",
-   "You're lonely even when they're in the room."
+   {
+    "text": "You explain away red flags before anyone asks.",
+    "image": "red flag warning"
+   },
+   {
+    "text": "You're relieved when plans get cancelled.",
+    "image": "calendar planner empty"
+   },
+   {
+    "text": "You keep waiting for 'someday' to arrive.",
+    "image": "waiting clock window"
+   },
+   {
+    "text": "You shrink your needs to keep the peace.",
+    "image": "person silhouette small alone"
+   },
+   {
+    "text": "You're lonely even when they're in the room.",
+    "image": "lonely couple couch"
+   }
   ],
   "cta": "Love shouldn't feel like a compromise on yourself. Save this.",
-  "caption": "Settling rarely feels dramatic. It feels like small silences adding up. Which sign hit closest? Tell me below."
+  "caption": "Settling rarely feels dramatic. It feels like small silences adding up. Which sign hit closest? Tell me below.",
+  "image": "lonely couple window"
  },
  {
   "category": "relationships",
   "hook": "Texts that mean more than 'I love you'",
   "points": [
-   "'Did you eat? Go eat.'",
-   "'Text me when you get home.'",
-   "'Saw this and thought of you.'",
-   "'No rush, take your time.'",
-   "'I'm proud of you.'"
+   {
+    "text": "'Did you eat? Go eat.'",
+    "image": "meal dinner plate"
+   },
+   {
+    "text": "'Text me when you get home.'",
+    "image": "house door night home"
+   },
+   {
+    "text": "'Saw this and thought of you.'",
+    "image": "flowers gift note"
+   },
+   {
+    "text": "'No rush, take your time.'",
+    "image": "hourglass sand"
+   },
+   {
+    "text": "'I'm proud of you.'",
+    "image": "graduation celebration"
+   }
   ],
   "cta": "Send this to someone who texts like that.",
-  "caption": "Real love is mostly small, boring, consistent. Drop your favourite text like this in the comments."
+  "caption": "Real love is mostly small, boring, consistent. Drop your favourite text like this in the comments.",
+  "image": "phone text message warm light"
  },
  {
   "category": "relationships",
   "hook": "Green flags nobody talks about",
   "points": [
-   "They apologise without a 'but'.",
-   "They're kind to waiters and strangers.",
-   "They let you change your mind.",
-   "They celebrate your wins loudly.",
-   "Arguments feel like teamwork, not war."
+   {
+    "text": "They apologise without a 'but'.",
+    "image": "hug apology"
+   },
+   {
+    "text": "They're kind to waiters and strangers.",
+    "image": "waiter restaurant smile"
+   },
+   {
+    "text": "They let you change your mind.",
+    "image": "open door path"
+   },
+   {
+    "text": "They celebrate your wins loudly.",
+    "image": "confetti celebration"
+   },
+   {
+    "text": "Arguments feel like teamwork, not war.",
+    "image": "teamwork hands together"
+   }
   ],
   "cta": "Screenshot this for your next situationship.",
-  "caption": "We obsess over red flags and forget to notice the green ones. Add yours below."
+  "caption": "We obsess over red flags and forget to notice the green ones. Add yours below.",
+  "image": "green leaves nature"
  },
  {
   "category": "relationships",
   "hook": "What you imagine vs. what 'we need to talk' means",
   "points": [
-   "Your brain: they're leaving.",
-   "Your brain: I did something wrong.",
-   "Your brain: I'll rehearse 14 speeches.",
-   "Reality: they want to pick a restaurant.",
-   "Reality: usually, it's way smaller."
+   {
+    "text": "Your brain: they're leaving.",
+    "image": "suitcase packed leaving"
+   },
+   {
+    "text": "Your brain: I did something wrong.",
+    "image": "worried woman thinking"
+   },
+   {
+    "text": "Your brain: I'll rehearse 14 speeches.",
+    "image": "speech microphone practice"
+   },
+   {
+    "text": "Reality: they want to pick a restaurant.",
+    "image": "restaurant dinner menu"
+   },
+   {
+    "text": "Reality: usually, it's way smaller.",
+    "image": "calm coffee relaxed"
+   }
   ],
   "cta": "Overthinkers, this one's for you. Share it.",
-  "caption": "Your imagination is a very dramatic screenwriter. Who else rehearses full arguments in the shower?"
+  "caption": "Your imagination is a very dramatic screenwriter. Who else rehearses full arguments in the shower?",
+  "image": "coffee cafe table two cups"
  },
  {
   "category": "relationships",
   "hook": "Signs you've outgrown someone",
   "points": [
-   "Your good news doesn't excite them.",
-   "You edit yourself around them.",
-   "Conversations feel like small talk.",
-   "You miss who you were before.",
-   "Leaving feels sad, but also light."
+   {
+    "text": "Your good news doesn't excite them.",
+    "image": "disappointed couple"
+   },
+   {
+    "text": "You edit yourself around them.",
+    "image": "mask face"
+   },
+   {
+    "text": "Conversations feel like small talk.",
+    "image": "awkward conversation cafe"
+   },
+   {
+    "text": "You miss who you were before.",
+    "image": "old photographs memories"
+   },
+   {
+    "text": "Leaving feels sad, but also light.",
+    "image": "bird flying free"
+   }
   ],
   "cta": "Outgrowing someone isn't failure. Save this.",
-  "caption": "Some people are chapters, not the whole book. Be gentle with yourself."
+  "caption": "Some people are chapters, not the whole book. Be gentle with yourself.",
+  "image": "walking path forest alone"
  },
  {
   "category": "relationships",
   "hook": "Stop saying this to your partner",
   "points": [
-   "'You always...'",
-   "'Fine.' (when it's not fine)",
-   "'I don't care, you pick.'",
-   "'It's nothing.'",
-   "Say what you feel instead. Kindly, clearly."
+   {
+    "text": "'You always...'",
+    "image": "pointing finger argument"
+   },
+   {
+    "text": "'Fine.' (when it's not fine)",
+    "image": "arms crossed upset"
+   },
+   {
+    "text": "'I don't care, you pick.'",
+    "image": "menu choices"
+   },
+   {
+    "text": "'It's nothing.'",
+    "image": "gloomy window rain"
+   },
+   {
+    "text": "Say what you feel instead. Kindly, clearly.",
+    "image": "couple talking holding hands"
+   }
   ],
   "cta": "Better words, better love. Send to your person.",
-  "caption": "Clear beats cryptic. Which one have you caught yourself saying?"
+  "caption": "Clear beats cryptic. Which one have you caught yourself saying?",
+  "image": "couple sunset silhouette"
  },
  {
   "category": "relationships",
   "hook": "Healing after a breakup: the honest version",
   "points": [
-   "Some days you'll feel fine. Then you won't.",
-   "Deleting the photos is allowed.",
-   "Not texting them is a daily decision.",
-   "Closure is something you give yourself.",
-   "One day you'll think of them and just... shrug."
+   {
+    "text": "Some days you'll feel fine. Then you won't.",
+    "image": "rain sun sky"
+   },
+   {
+    "text": "Deleting the photos is allowed.",
+    "image": "polaroid photos"
+   },
+   {
+    "text": "Not texting them is a daily decision.",
+    "image": "phone face down"
+   },
+   {
+    "text": "Closure is something you give yourself.",
+    "image": "journal writing"
+   },
+   {
+    "text": "One day you'll think of them and just... shrug.",
+    "image": "sunset beach walk"
+   }
   ],
   "cta": "You're doing better than you think. Save this.",
-  "caption": "Healing isn't a straight line. Sending a hug to anyone in the messy middle."
+  "caption": "Healing isn't a straight line. Sending a hug to anyone in the messy middle.",
+  "image": "ocean waves calm"
  },
  {
   "category": "relationships",
   "hook": "Things a good partner never makes you do",
   "points": [
-   "Beg for basic respect.",
-   "Guess where you stand.",
-   "Compete for their attention.",
-   "Apologise for having feelings.",
-   "Prove you deserve love."
+   {
+    "text": "Beg for basic respect.",
+    "image": "closed door"
+   },
+   {
+    "text": "Guess where you stand.",
+    "image": "signpost crossroads"
+   },
+   {
+    "text": "Compete for their attention.",
+    "image": "couple dinner phone"
+   },
+   {
+    "text": "Apologise for having feelings.",
+    "image": "tears emotion woman"
+   },
+   {
+    "text": "Prove you deserve love.",
+    "image": "heart hands love"
+   }
   ],
   "cta": "Read that last one twice. Share it.",
-  "caption": "You are not too much. You're just with someone who can't hold it. Tag a friend who needs this."
+  "caption": "You are not too much. You're just with someone who can't hold it. Tag a friend who needs this.",
+  "image": "holding hands sunset"
  },
  {
   "category": "motivation",
   "hook": "Stop saying this to yourself",
   "points": [
-   "'I'm too late.' Late is still moving.",
-   "'I'm not ready.' Nobody is.",
-   "'What if I fail?' What if you don't?",
-   "'Others are ahead.' It's not a race.",
-   "'I'll start Monday.' Start the next ten minutes."
+   {
+    "text": "'I'm too late.' Late is still moving.",
+    "image": "clock late"
+   },
+   {
+    "text": "'I'm not ready.' Nobody is.",
+    "image": "start line runner"
+   },
+   {
+    "text": "'What if I fail?' What if you don't?",
+    "image": "jump leap sky"
+   },
+   {
+    "text": "'Others are ahead.' It's not a race.",
+    "image": "marathon runners race"
+   },
+   {
+    "text": "'I'll start Monday.' Start the next ten minutes.",
+    "image": "calendar monday"
+   }
   ],
   "cta": "Talk to yourself like someone you love. Save this.",
-  "caption": "Your inner voice is on repeat all day. Make it a good playlist. Which line do you need to retire?"
+  "caption": "Your inner voice is on repeat all day. Make it a good playlist. Which line do you need to retire?",
+  "image": "sunrise mountain"
  },
  {
   "category": "motivation",
   "hook": "Small habits that quietly change your life",
   "points": [
-   "Make your bed. Win the first task.",
-   "Walk for 10 minutes. Think clearer.",
-   "Write down one thing you're grateful for.",
-   "Phone away 30 minutes before sleep.",
-   "Do the hard thing first."
+   {
+    "text": "Make your bed. Win the first task.",
+    "image": "made bed bedroom"
+   },
+   {
+    "text": "Walk for 10 minutes. Think clearer.",
+    "image": "walking park morning"
+   },
+   {
+    "text": "Write down one thing you're grateful for.",
+    "image": "gratitude journal"
+   },
+   {
+    "text": "Phone away 30 minutes before sleep.",
+    "image": "phone charging bedside"
+   },
+   {
+    "text": "Do the hard thing first.",
+    "image": "mountain climb start"
+   }
   ],
   "cta": "Pick one. Start today. Save this.",
-  "caption": "You don't need a new life, just a slightly better day, repeated. Which habit are you starting?"
+  "caption": "You don't need a new life, just a slightly better day, repeated. Which habit are you starting?",
+  "image": "morning coffee journal"
  },
  {
   "category": "motivation",
   "hook": "Reminders for when you feel behind",
   "points": [
-   "Comparison edits everyone's highlight reel.",
-   "Slow progress is still progress.",
-   "Rest is part of the work.",
-   "Your timeline is yours alone.",
-   "You're growing even when it's quiet."
+   {
+    "text": "Comparison edits everyone's highlight reel.",
+    "image": "social media phone scroll"
+   },
+   {
+    "text": "Slow progress is still progress.",
+    "image": "snail"
+   },
+   {
+    "text": "Rest is part of the work.",
+    "image": "hammock rest"
+   },
+   {
+    "text": "Your timeline is yours alone.",
+    "image": "winding road"
+   },
+   {
+    "text": "You're growing even when it's quiet.",
+    "image": "seedling sprout"
+   }
   ],
   "cta": "Breathe. You're not behind. Send this to a friend.",
-  "caption": "Behind whom, exactly? Drop a 💛 if you needed this today."
+  "caption": "Behind whom, exactly? Drop a 💛 if you needed this today.",
+  "image": "open road trip"
  },
  {
   "category": "motivation",
   "hook": "Why you're tired (and it isn't laziness)",
   "points": [
-   "You're carrying things you never say out loud.",
-   "You say yes when you mean no.",
-   "You're always 'on' for everyone else.",
-   "You never let a day feel finished.",
-   "Rest isn't a reward. It's maintenance."
+   {
+    "text": "You're carrying things you never say out loud.",
+    "image": "heavy backpack"
+   },
+   {
+    "text": "You say yes when you mean no.",
+    "image": "stop sign hand"
+   },
+   {
+    "text": "You're always 'on' for everyone else.",
+    "image": "busy crowd city"
+   },
+   {
+    "text": "You never let a day feel finished.",
+    "image": "to do list notebook"
+   },
+   {
+    "text": "Rest isn't a reward. It's maintenance.",
+    "image": "bed pillow sleep"
+   }
   ],
   "cta": "Permission to rest, granted. Save this.",
-  "caption": "Burnout isn't weakness, it's a signal. What's one thing you can put down this week?"
+  "caption": "Burnout isn't weakness, it's a signal. What's one thing you can put down this week?",
+  "image": "cozy blanket rest"
  },
  {
   "category": "motivation",
   "hook": "Things I wish I knew at 20",
   "points": [
-   "Most people are too busy to judge you.",
-   "Consistency beats intensity.",
-   "Your peace is worth more than being right.",
-   "Not every friendship has to last forever.",
-   "Start before you feel ready."
+   {
+    "text": "Most people are too busy to judge you.",
+    "image": "crowd walking busy street"
+   },
+   {
+    "text": "Consistency beats intensity.",
+    "image": "stairs steps climbing"
+   },
+   {
+    "text": "Your peace is worth more than being right.",
+    "image": "calm lake"
+   },
+   {
+    "text": "Not every friendship has to last forever.",
+    "image": "empty bench"
+   },
+   {
+    "text": "Start before you feel ready.",
+    "image": "start line sunrise"
+   }
   ],
   "cta": "Tag someone who needs a head start.",
-  "caption": "Hindsight is free but expensive. What would you tell your 20-year-old self?"
+  "caption": "Hindsight is free but expensive. What would you tell your 20-year-old self?",
+  "image": "city skyline young"
  },
  {
   "category": "motivation",
   "hook": "How to start when you don't feel like it",
   "points": [
-   "Shrink it: just 5 minutes.",
-   "Make it embarrassingly easy.",
-   "Start messy. Fix later.",
-   "Motivation follows action, not the reverse.",
-   "Done badly beats perfect and never."
+   {
+    "text": "Shrink it: just 5 minutes.",
+    "image": "timer clock"
+   },
+   {
+    "text": "Make it embarrassingly easy.",
+    "image": "single step small"
+   },
+   {
+    "text": "Start messy. Fix later.",
+    "image": "messy desk paint"
+   },
+   {
+    "text": "Motivation follows action, not the reverse.",
+    "image": "running shoes tying"
+   },
+   {
+    "text": "Done badly beats perfect and never.",
+    "image": "unfinished painting"
+   }
   ],
   "cta": "Your future self is cheering. Save this.",
-  "caption": "Waiting to feel ready is the most expensive habit. What are you starting in 5 minutes?"
+  "caption": "Waiting to feel ready is the most expensive habit. What are you starting in 5 minutes?",
+  "image": "running shoes morning"
  },
  {
   "category": "motivation",
   "hook": "Red flags in your own routine",
   "points": [
-   "Scrolling instead of sleeping.",
-   "Saying 'busy' when you mean 'avoiding'.",
-   "Starting five things, finishing none.",
-   "Complaining more than planning.",
-   "Waiting for permission nobody is giving."
+   {
+    "text": "Scrolling instead of sleeping.",
+    "image": "phone bed night"
+   },
+   {
+    "text": "Saying 'busy' when you mean 'avoiding'.",
+    "image": "busy desk papers"
+   },
+   {
+    "text": "Starting five things, finishing none.",
+    "image": "unfinished projects"
+   },
+   {
+    "text": "Complaining more than planning.",
+    "image": "rainy window"
+   },
+   {
+    "text": "Waiting for permission nobody is giving.",
+    "image": "waiting room chair"
+   }
   ],
   "cta": "Be honest, then be kind. Share this.",
-  "caption": "Awareness is step one. Which one is you right now? No judgment here."
+  "caption": "Awareness is step one. Which one is you right now? No judgment here.",
+  "image": "alarm clock bedroom"
  },
  {
   "category": "motivation",
   "hook": "Soft reminders for a hard week",
   "points": [
-   "You don't have to fix everything today.",
-   "Asking for help is strength.",
-   "Bad days don't cancel good progress.",
-   "Drink water. Eat something. Sleep.",
-   "This week will end. You'll still be here."
+   {
+    "text": "You don't have to fix everything today.",
+    "image": "coffee cup rest"
+   },
+   {
+    "text": "Asking for help is strength.",
+    "image": "helping hand"
+   },
+   {
+    "text": "Bad days don't cancel good progress.",
+    "image": "sunrise after storm"
+   },
+   {
+    "text": "Drink water. Eat something. Sleep.",
+    "image": "glass water"
+   },
+   {
+    "text": "This week will end. You'll still be here.",
+    "image": "calendar week"
+   }
   ],
   "cta": "Send this to someone having a hard week.",
-  "caption": "Be a little gentler with yourself this week. Sending strength to everyone who needs it."
+  "caption": "Be a little gentler with yourself this week. Sending strength to everyone who needs it.",
+  "image": "rain window cozy"
  },
  {
   "category": "relationships",
   "hook": "Love languages, translated",
   "points": [
-   "Words: 'I'm proud of you' hits hardest.",
-   "Time: phone down, eyes up.",
-   "Gifts: it's the thought, not the price.",
-   "Acts: they just handle the thing.",
-   "Touch: a hand on your back says it all."
+   {
+    "text": "Words: 'I'm proud of you' hits hardest.",
+    "image": "love letter"
+   },
+   {
+    "text": "Time: phone down, eyes up.",
+    "image": "couple walking together"
+   },
+   {
+    "text": "Gifts: it's the thought, not the price.",
+    "image": "gift box ribbon"
+   },
+   {
+    "text": "Acts: they just handle the thing.",
+    "image": "cooking together kitchen"
+   },
+   {
+    "text": "Touch: a hand on your back says it all.",
+    "image": "holding hands"
+   }
   ],
   "cta": "Which one is yours? Tell your partner. Save this.",
-  "caption": "Knowing how you receive love saves a lot of misunderstandings. Which language is yours?"
+  "caption": "Knowing how you receive love saves a lot of misunderstandings. Which language is yours?",
+  "image": "gift flowers love"
  },
  {
   "category": "relationships",
   "hook": "Why you keep attracting the wrong people",
   "points": [
-   "You mistake intensity for chemistry.",
-   "You love potential more than reality.",
-   "You fear calm because it feels boring.",
-   "You ignore the first red flag to be 'chill'.",
-   "Pick consistency. It's the new romantic."
+   {
+    "text": "You mistake intensity for chemistry.",
+    "image": "fireworks sparks"
+   },
+   {
+    "text": "You love potential more than reality.",
+    "image": "blueprint construction"
+   },
+   {
+    "text": "You fear calm because it feels boring.",
+    "image": "calm morning cup"
+   },
+   {
+    "text": "You ignore the first red flag to be 'chill'.",
+    "image": "red flag"
+   },
+   {
+    "text": "Pick consistency. It's the new romantic.",
+    "image": "steady road path"
+   }
   ],
   "cta": "Choose peace over chaos. Share this.",
-  "caption": "Healthy can feel unfamiliar at first. That's not boredom, that's safety. Thoughts?"
+  "caption": "Healthy can feel unfamiliar at first. That's not boredom, that's safety. Thoughts?",
+  "image": "neon city night"
  },
  {
   "category": "relationships",
   "hook": "How to argue without wrecking things",
   "points": [
-   "Attack the problem, not the person.",
-   "Take a break before you say something you can't unsay.",
-   "Listen to understand, not to win.",
-   "Say 'I feel' instead of 'you always'.",
-   "End with a hug, not a score."
+   {
+    "text": "Attack the problem, not the person.",
+    "image": "puzzle pieces"
+   },
+   {
+    "text": "Take a break before you say something you can't unsay.",
+    "image": "walk away park"
+   },
+   {
+    "text": "Listen to understand, not to win.",
+    "image": "listening conversation"
+   },
+   {
+    "text": "Say 'I feel' instead of 'you always'.",
+    "image": "speaking heart"
+   },
+   {
+    "text": "End with a hug, not a score.",
+    "image": "hug couple"
+   }
   ],
   "cta": "Save for your next disagreement.",
-  "caption": "Every couple argues. The good ones argue kindly. What helps you cool down?"
+  "caption": "Every couple argues. The good ones argue kindly. What helps you cool down?",
+  "image": "stormy clouds sky"
  },
  {
   "category": "relationships",
   "hook": "Situationship checklist",
   "points": [
-   "Plans are always last minute.",
-   "You get warmth only at night.",
-   "Labels make them change the subject.",
-   "You feel anxious more than happy.",
-   "You deserve clarity, not crumbs."
+   {
+    "text": "Plans are always last minute.",
+    "image": "last minute watch"
+   },
+   {
+    "text": "You get warmth only at night.",
+    "image": "night phone texting"
+   },
+   {
+    "text": "Labels make them change the subject.",
+    "image": "question mark"
+   },
+   {
+    "text": "You feel anxious more than happy.",
+    "image": "anxious waiting phone"
+   },
+   {
+    "text": "You deserve clarity, not crumbs.",
+    "image": "clear glass window"
+   }
   ],
   "cta": "Ask for clarity. Send this to a friend in the grey zone.",
-  "caption": "A situationship isn't a crime, but being unclear is exhausting. Tag a friend who needs this."
+  "caption": "A situationship isn't a crime, but being unclear is exhausting. Tag a friend who needs this.",
+  "image": "foggy street"
  },
  {
   "category": "relationships",
   "hook": "Things to stop doing after a breakup",
   "points": [
-   "Checking their stories 'one last time'.",
-   "Rewriting history to only remember the good.",
-   "Texting at 2 AM.",
-   "Comparing your healing speed to theirs.",
-   "Blaming yourself for their choices."
+   {
+    "text": "Checking their stories 'one last time'.",
+    "image": "phone scrolling"
+   },
+   {
+    "text": "Rewriting history to only remember the good.",
+    "image": "photo album"
+   },
+   {
+    "text": "Texting at 2 AM.",
+    "image": "phone night bed"
+   },
+   {
+    "text": "Comparing your healing speed to theirs.",
+    "image": "race runners"
+   },
+   {
+    "text": "Blaming yourself for their choices.",
+    "image": "mirror reflection"
+   }
   ],
   "cta": "Protect your peace. Save this.",
-  "caption": "Recovery is boring, daily, and worth it. What's helping you move on?"
+  "caption": "Recovery is boring, daily, and worth it. What's helping you move on?",
+  "image": "autumn leaves"
  },
  {
   "category": "relationships",
   "hook": "Small things that keep love alive",
   "points": [
-   "Say good morning first.",
-   "Ask a question beyond 'how was your day'.",
-   "Flirt with them like you did on date one.",
-   "Say thank you for ordinary things.",
-   "Be curious about who they're becoming."
+   {
+    "text": "Say good morning first.",
+    "image": "good morning sunrise window"
+   },
+   {
+    "text": "Ask a question beyond 'how was your day'.",
+    "image": "conversation coffee"
+   },
+   {
+    "text": "Flirt with them like you did on date one.",
+    "image": "couple dating dinner"
+   },
+   {
+    "text": "Say thank you for ordinary things.",
+    "image": "thank you note"
+   },
+   {
+    "text": "Be curious about who they're becoming.",
+    "image": "couple stargazing"
+   }
   ],
   "cta": "Do one today. Share this with your person.",
-  "caption": "Love isn't kept alive by grand gestures, but by tiny daily ones. What's yours?"
+  "caption": "Love isn't kept alive by grand gestures, but by tiny daily ones. What's yours?",
+  "image": "flowers bouquet"
  },
  {
   "category": "relationships",
   "hook": "Friendship red flags",
   "points": [
-   "They only call when they need something.",
-   "Your wins make them quiet.",
-   "They gossip about everyone to you.",
-   "You feel drained, not refilled.",
-   "Real friends feel like a deep breath."
+   {
+    "text": "They only call when they need something.",
+    "image": "phone calling"
+   },
+   {
+    "text": "Your wins make them quiet.",
+    "image": "silent room"
+   },
+   {
+    "text": "They gossip about everyone to you.",
+    "image": "whispering"
+   },
+   {
+    "text": "You feel drained, not refilled.",
+    "image": "empty cup"
+   },
+   {
+    "text": "Real friends feel like a deep breath.",
+    "image": "friends hugging sunset"
+   }
   ],
   "cta": "Tag the friend who feels like a deep breath.",
-  "caption": "Quality over quantity, always. Who is your deep-breath friend?"
+  "caption": "Quality over quantity, always. Who is your deep-breath friend?",
+  "image": "friends laughing sunset"
  },
  {
   "category": "relationships",
   "hook": "Self-love isn't selfish",
   "points": [
-   "Saying no is complete sentence.",
-   "You can love people and still leave.",
-   "Boundaries are bridges, not walls.",
-   "You're allowed to want more.",
-   "Treat yourself like someone you're raising kindly."
+   {
+    "text": "Saying no is complete sentence.",
+    "image": "stop hand"
+   },
+   {
+    "text": "You can love people and still leave.",
+    "image": "open door exit"
+   },
+   {
+    "text": "Boundaries are bridges, not walls.",
+    "image": "bridge"
+   },
+   {
+    "text": "You're allowed to want more.",
+    "image": "reaching sky"
+   },
+   {
+    "text": "Treat yourself like someone you're raising kindly.",
+    "image": "self care bath"
+   }
   ],
   "cta": "You're worth your own loyalty. Save this.",
-  "caption": "You can't pour from an empty cup, and you shouldn't have to. What boundary are you setting?"
+  "caption": "You can't pour from an empty cup, and you shouldn't have to. What boundary are you setting?",
+  "image": "bath candles self care"
  },
  {
   "category": "relationships",
   "hook": "Texts to send instead of silence",
   "points": [
-   "'I need a minute, but I'm not leaving.'",
-   "'That hurt me, can we talk?'",
-   "'I miss you. Call me when you're free.'",
-   "'I was wrong. I'm sorry.'",
-   "'Thank you for being patient with me.'"
+   {
+    "text": "'I need a minute, but I'm not leaving.'",
+    "image": "pause break bench"
+   },
+   {
+    "text": "'That hurt me, can we talk?'",
+    "image": "heart bandage"
+   },
+   {
+    "text": "'I miss you. Call me when you're free.'",
+    "image": "missing you window"
+   },
+   {
+    "text": "'I was wrong. I'm sorry.'",
+    "image": "apology flowers"
+   },
+   {
+    "text": "'Thank you for being patient with me.'",
+    "image": "thank you hands"
+   }
   ],
   "cta": "Send one today.",
-  "caption": "Clear words cost less than silence. Which of these needs sending?"
+  "caption": "Clear words cost less than silence. Which of these needs sending?",
+  "image": "handwritten letter"
  },
  {
   "category": "relationships",
   "hook": "Overthinking in love, decoded",
   "points": [
-   "No reply = they're busy, not bored of you.",
-   "A short text = a short text.",
-   "Silence isn't always punishment.",
-   "Ask, don't assume.",
-   "Peace is trusting without checking."
+   {
+    "text": "No reply = they're busy, not bored of you.",
+    "image": "busy desk work"
+   },
+   {
+    "text": "A short text = a short text.",
+    "image": "phone message"
+   },
+   {
+    "text": "Silence isn't always punishment.",
+    "image": "quiet empty room"
+   },
+   {
+    "text": "Ask, don't assume.",
+    "image": "question mark"
+   },
+   {
+    "text": "Peace is trusting without checking.",
+    "image": "calm water"
+   }
   ],
   "cta": "Put the phone down. Share this.",
-  "caption": "Your anxiety writes stories your partner never read. Who else overthinks?"
+  "caption": "Your anxiety writes stories your partner never read. Who else overthinks?",
+  "image": "clouds sky calm"
  },
  {
   "category": "relationships",
   "hook": "Dating in your 20s, honestly",
   "points": [
-   "You don't need to rush into anything.",
-   "Chemistry fades. Kindness doesn't.",
-   "Be single without being lonely.",
-   "Date people who talk about the future.",
-   "Don't shrink for anyone's comfort."
+   {
+    "text": "You don't need to rush into anything.",
+    "image": "slow walk path"
+   },
+   {
+    "text": "Chemistry fades. Kindness doesn't.",
+    "image": "kind gesture hands"
+   },
+   {
+    "text": "Be single without being lonely.",
+    "image": "solo travel"
+   },
+   {
+    "text": "Date people who talk about the future.",
+    "image": "map planning"
+   },
+   {
+    "text": "Don't shrink for anyone's comfort.",
+    "image": "tall tree standing"
+   }
   ],
   "cta": "Take your time. Save this.",
-  "caption": "Nobody has it figured out. What's one dating lesson you learned the hard way?"
+  "caption": "Nobody has it figured out. What's one dating lesson you learned the hard way?",
+  "image": "city street night lights"
  },
  {
   "category": "relationships",
   "hook": "How to be a safe person",
   "points": [
-   "Listen without fixing.",
-   "Keep their secrets, always.",
-   "Stay calm when they're vulnerable.",
-   "Admit when you're wrong.",
-   "Show up the same on good and bad days."
+   {
+    "text": "Listen without fixing.",
+    "image": "listening friends"
+   },
+   {
+    "text": "Keep their secrets, always.",
+    "image": "padlock secret"
+   },
+   {
+    "text": "Stay calm when they're vulnerable.",
+    "image": "calm sea"
+   },
+   {
+    "text": "Admit when you're wrong.",
+    "image": "apology"
+   },
+   {
+    "text": "Show up the same on good and bad days.",
+    "image": "lighthouse"
+   }
   ],
   "cta": "Be the person you needed. Share this.",
-  "caption": "Safe people are rare. Be one. Who's yours?"
+  "caption": "Safe people are rare. Be one. Who's yours?",
+  "image": "campfire warm"
  },
  {
   "category": "motivation",
   "hook": "Your 5-minute reset",
   "points": [
-   "Stand up. Stretch for 60 seconds.",
-   "Drink a full glass of water.",
-   "Write down the one thing that matters today.",
-   "Breathe slowly for 4 counts, out for 6.",
-   "Do the first tiny step. Just one."
+   {
+    "text": "Stand up. Stretch for 60 seconds.",
+    "image": "stretching morning"
+   },
+   {
+    "text": "Drink a full glass of water.",
+    "image": "glass of water"
+   },
+   {
+    "text": "Write down the one thing that matters today.",
+    "image": "notebook pen"
+   },
+   {
+    "text": "Breathe slowly for 4 counts, out for 6.",
+    "image": "deep breath meditation"
+   },
+   {
+    "text": "Do the first tiny step. Just one.",
+    "image": "first step footprints"
+   }
   ],
   "cta": "Try it right now. Save this.",
-  "caption": "Reset beats restart. Which step will you do first?"
+  "caption": "Reset beats restart. Which step will you do first?",
+  "image": "meditation morning"
  },
  {
   "category": "motivation",
   "hook": "Why you procrastinate (it's not laziness)",
   "points": [
-   "The task feels too big.",
-   "You're scared it won't be perfect.",
-   "You don't know the first step.",
-   "You're tired, not lazy.",
-   "Break it down until it feels laughably small."
+   {
+    "text": "The task feels too big.",
+    "image": "mountain big"
+   },
+   {
+    "text": "You're scared it won't be perfect.",
+    "image": "blank canvas"
+   },
+   {
+    "text": "You don't know the first step.",
+    "image": "stairs first step"
+   },
+   {
+    "text": "You're tired, not lazy.",
+    "image": "tired desk"
+   },
+   {
+    "text": "Break it down until it feels laughably small.",
+    "image": "small steps"
+   }
   ],
   "cta": "Make it smaller. Share this.",
-  "caption": "Procrastination is usually fear in a disguise. What are you avoiding today?"
+  "caption": "Procrastination is usually fear in a disguise. What are you avoiding today?",
+  "image": "desk laptop notebook"
  },
  {
   "category": "motivation",
   "hook": "Habits of calm people",
   "points": [
-   "They don't reply while angry.",
-   "They sleep like it matters.",
-   "They say no without a speech.",
-   "They let small things stay small.",
-   "They focus on what they can control."
+   {
+    "text": "They don't reply while angry.",
+    "image": "calm phone down"
+   },
+   {
+    "text": "They sleep like it matters.",
+    "image": "sleeping peaceful"
+   },
+   {
+    "text": "They say no without a speech.",
+    "image": "no sign"
+   },
+   {
+    "text": "They let small things stay small.",
+    "image": "small pebble"
+   },
+   {
+    "text": "They focus on what they can control.",
+    "image": "steering wheel"
+   }
   ],
   "cta": "Calm is a skill. Save this.",
-  "caption": "You can train calm like a muscle. Which habit is next for you?"
+  "caption": "You can train calm like a muscle. Which habit is next for you?",
+  "image": "lake still water"
  },
  {
   "category": "motivation",
   "hook": "When you feel stuck",
   "points": [
-   "Change one tiny thing in your routine.",
-   "Talk to someone who sees you clearly.",
-   "Walk outside without your phone.",
-   "Write the worst case, then the next step.",
-   "Stuck is a pause, not a verdict."
+   {
+    "text": "Change one tiny thing in your routine.",
+    "image": "new path forest"
+   },
+   {
+    "text": "Talk to someone who sees you clearly.",
+    "image": "friends talking coffee"
+   },
+   {
+    "text": "Walk outside without your phone.",
+    "image": "walk nature path"
+   },
+   {
+    "text": "Write the worst case, then the next step.",
+    "image": "journal pen"
+   },
+   {
+    "text": "Stuck is a pause, not a verdict.",
+    "image": "traffic light red"
+   }
   ],
   "cta": "Move one inch today. Save this.",
-  "caption": "Even a slow day is still moving. What would an inch forward look like?"
+  "caption": "Even a slow day is still moving. What would an inch forward look like?",
+  "image": "stairs climbing"
  },
  {
   "category": "motivation",
   "hook": "Money mindset shifts",
   "points": [
-   "Spend on growth, not impressions.",
-   "Pay yourself first, even small.",
-   "Compare to your past self only.",
-   "Learn one skill that earns.",
-   "Wealth is built boring, consistently."
+   {
+    "text": "Spend on growth, not impressions.",
+    "image": "books learning"
+   },
+   {
+    "text": "Pay yourself first, even small.",
+    "image": "piggy bank"
+   },
+   {
+    "text": "Compare to your past self only.",
+    "image": "mirror reflection"
+   },
+   {
+    "text": "Learn one skill that earns.",
+    "image": "laptop learning"
+   },
+   {
+    "text": "Wealth is built boring, consistently.",
+    "image": "coins plant growing"
+   }
   ],
   "cta": "Start small. Share this with a friend.",
-  "caption": "Not financial advice, just habits that tend to help. What's one you're starting?"
+  "caption": "Not financial advice, just habits that tend to help. What's one you're starting?",
+  "image": "desk planning notebook"
  },
  {
   "category": "motivation",
   "hook": "Study and work smarter",
   "points": [
-   "Work in 25-minute sprints.",
-   "Phone in another room.",
-   "Do the hardest task first.",
-   "Teach it to someone else.",
-   "Sleep is part of the plan."
+   {
+    "text": "Work in 25-minute sprints.",
+    "image": "timer sprint"
+   },
+   {
+    "text": "Phone in another room.",
+    "image": "phone drawer"
+   },
+   {
+    "text": "Do the hardest task first.",
+    "image": "mountain climb"
+   },
+   {
+    "text": "Teach it to someone else.",
+    "image": "teaching whiteboard"
+   },
+   {
+    "text": "Sleep is part of the plan.",
+    "image": "sleeping bed"
+   }
   ],
   "cta": "Try a sprint now. Save this.",
-  "caption": "Smart beats long hours. Which tip will you try today?"
+  "caption": "Smart beats long hours. Which tip will you try today?",
+  "image": "study library books"
  },
  {
   "category": "motivation",
   "hook": "How to stop caring what people think",
   "points": [
-   "Most people think about themselves.",
-   "Their opinion is their story, not your truth.",
-   "Critics rarely build anything.",
-   "Choose three people whose opinion matters.",
-   "Then go do the thing."
+   {
+    "text": "Most people think about themselves.",
+    "image": "crowd walking"
+   },
+   {
+    "text": "Their opinion is their story, not your truth.",
+    "image": "speech bubbles"
+   },
+   {
+    "text": "Critics rarely build anything.",
+    "image": "audience spectators"
+   },
+   {
+    "text": "Choose three people whose opinion matters.",
+    "image": "three friends"
+   },
+   {
+    "text": "Then go do the thing.",
+    "image": "runner sunrise"
+   }
   ],
   "cta": "Be unbothered. Share this.",
-  "caption": "Imagine how free you'd be. What would you do if nobody was watching?"
+  "caption": "Imagine how free you'd be. What would you do if nobody was watching?",
+  "image": "mountain top freedom"
  },
  {
   "category": "motivation",
   "hook": "Morning routine that doesn't suck",
   "points": [
-   "Don't touch your phone for 15 minutes.",
-   "Open the curtains. Get light.",
-   "Move your body a little.",
-   "Eat something real.",
-   "Pick today's one priority."
+   {
+    "text": "Don't touch your phone for 15 minutes.",
+    "image": "phone away morning"
+   },
+   {
+    "text": "Open the curtains. Get light.",
+    "image": "sunlight curtains window"
+   },
+   {
+    "text": "Move your body a little.",
+    "image": "yoga morning"
+   },
+   {
+    "text": "Eat something real.",
+    "image": "healthy breakfast"
+   },
+   {
+    "text": "Pick today's one priority.",
+    "image": "to do list pen"
+   }
   ],
   "cta": "Tomorrow, try two of these. Save.",
-  "caption": "A good morning isn't about waking at 5 AM, it's about waking on purpose. Your routine?"
+  "caption": "A good morning isn't about waking at 5 AM, it's about waking on purpose. Your routine?",
+  "image": "sunlight window morning"
  },
  {
   "category": "motivation",
   "hook": "Fear, translated",
   "points": [
-   "Fear says 'you'll fail.' Truth: you'll learn.",
-   "Fear says 'they'll laugh.' Truth: they're busy.",
-   "Fear says 'wait.' Truth: ready is a myth.",
-   "Fear says 'stay safe.' Truth: safe is stuck.",
-   "Do it scared."
+   {
+    "text": "Fear says 'you'll fail.' Truth: you'll learn.",
+    "image": "learning book"
+   },
+   {
+    "text": "Fear says 'they'll laugh.' Truth: they're busy.",
+    "image": "busy people city"
+   },
+   {
+    "text": "Fear says 'wait.' Truth: ready is a myth.",
+    "image": "start line"
+   },
+   {
+    "text": "Fear says 'stay safe.' Truth: safe is stuck.",
+    "image": "boat harbor"
+   },
+   {
+    "text": "Do it scared.",
+    "image": "skydiving"
+   }
   ],
   "cta": "Bravery is just fear that kept walking.",
-  "caption": "What are you scared to start? Say it below, then do one step."
+  "caption": "What are you scared to start? Say it below, then do one step.",
+  "image": "cliff edge sky"
  },
  {
   "category": "motivation",
   "hook": "Signs you're healing and growing",
   "points": [
-   "You pause before reacting.",
-   "You say no without guilt.",
-   "You celebrate small wins.",
-   "Old triggers don't hit as hard.",
-   "You choose peace over proving a point."
+   {
+    "text": "You pause before reacting.",
+    "image": "pause calm"
+   },
+   {
+    "text": "You say no without guilt.",
+    "image": "peaceful nature"
+   },
+   {
+    "text": "You celebrate small wins.",
+    "image": "small celebration"
+   },
+   {
+    "text": "Old triggers don't hit as hard.",
+    "image": "fading storm clouds"
+   },
+   {
+    "text": "You choose peace over proving a point.",
+    "image": "calm lake mountain"
+   }
   ],
   "cta": "Look how far you've come. Save this.",
-  "caption": "Growth is quiet, and you're doing it. Which sign do you see in yourself?"
+  "caption": "Growth is quiet, and you're doing it. Which sign do you see in yourself?",
+  "image": "sprouting plant"
  },
  {
   "category": "motivation",
   "hook": "Be your own motivation",
   "points": [
-   "Keep promises to yourself.",
-   "Track the tiny wins.",
-   "Make your space inspiring.",
-   "Surround yourself with doers.",
-   "Remember why you started."
+   {
+    "text": "Keep promises to yourself.",
+    "image": "handshake promise"
+   },
+   {
+    "text": "Track the tiny wins.",
+    "image": "calendar checkmarks"
+   },
+   {
+    "text": "Make your space inspiring.",
+    "image": "cozy desk plants"
+   },
+   {
+    "text": "Surround yourself with doers.",
+    "image": "team working"
+   },
+   {
+    "text": "Remember why you started.",
+    "image": "compass"
+   }
   ],
   "cta": "You've got this. Share with someone who needs it.",
-  "caption": "Motivation fades, but discipline stays. What promise are you keeping this week?"
+  "caption": "Motivation fades, but discipline stays. What promise are you keeping this week?",
+  "image": "hiking summit"
  },
  {
   "category": "motivation",
   "hook": "Things to do on a bad day",
   "points": [
-   "Lower the bar. Do the minimum.",
-   "Cry if you need to.",
-   "Message one person you trust.",
-   "Take a shower. Reset the body.",
-   "Tomorrow gets a fresh page."
+   {
+    "text": "Lower the bar. Do the minimum.",
+    "image": "relax couch blanket"
+   },
+   {
+    "text": "Cry if you need to.",
+    "image": "rain window"
+   },
+   {
+    "text": "Message one person you trust.",
+    "image": "phone message friend"
+   },
+   {
+    "text": "Take a shower. Reset the body.",
+    "image": "shower water"
+   },
+   {
+    "text": "Tomorrow gets a fresh page.",
+    "image": "blank notebook page"
+   }
   ],
   "cta": "Be kind to yourself today. Save this.",
-  "caption": "Bad days don't mean a bad life. Sending love to anyone having one today."
+  "caption": "Bad days don't mean a bad life. Sending love to anyone having one today.",
+  "image": "rain umbrella city"
+ },
+ {
+  "category": "facts",
+  "hook": "5 space facts that sound fake but aren't",
+  "image": "galaxy night sky",
+  "points": [
+   {
+    "text": "A day on Venus is longer than its year.",
+    "image": "venus planet"
+   },
+   {
+    "text": "A teaspoon of neutron star would weigh about a billion tons.",
+    "image": "galaxy nebula"
+   },
+   {
+    "text": "Sunlight takes about 8 minutes to reach Earth.",
+    "image": "sun sunrise"
+   },
+   {
+    "text": "Olympus Mons on Mars is about 2.5 times taller than Everest.",
+    "image": "mars surface"
+   },
+   {
+    "text": "Saturn is less dense than water. It would float in a giant bathtub.",
+    "image": "saturn planet"
+   }
+  ],
+  "cta": "Which one surprised you? Save and share this.",
+  "caption": "Space is stranger than fiction. Which one did you not know? Tell us below."
+ },
+ {
+  "category": "facts",
+  "hook": "Your body is weirder than you think",
+  "image": "human anatomy science",
+  "points": [
+   {
+    "text": "Your heart beats about 100,000 times every day.",
+    "image": "heartbeat pulse"
+   },
+   {
+    "text": "Babies are born with around 300 bones. Adults have 206.",
+    "image": "baby sleeping"
+   },
+   {
+    "text": "Your brain uses about 20% of your body's energy.",
+    "image": "brain thinking"
+   },
+   {
+    "text": "Fingerprints start forming before you are born.",
+    "image": "fingerprint"
+   },
+   {
+    "text": "Your red blood cells are replaced roughly every 4 months.",
+    "image": "blood cells microscope"
+   }
+  ],
+  "cta": "Which one surprised you? Save and share this.",
+  "caption": "Your body is quietly doing a lot right now. Which fact surprised you most?"
+ },
+ {
+  "category": "facts",
+  "hook": "5 animal facts you'll want to repeat",
+  "image": "wildlife nature",
+  "points": [
+   {
+    "text": "Octopuses have three hearts.",
+    "image": "octopus underwater"
+   },
+   {
+    "text": "Honey can last thousands of years without spoiling.",
+    "image": "honey jar"
+   },
+   {
+    "text": "A group of owls is called a parliament.",
+    "image": "owls"
+   },
+   {
+    "text": "Crows can recognise individual human faces.",
+    "image": "crow bird"
+   },
+   {
+    "text": "Sea otters sometimes hold hands while they sleep.",
+    "image": "sea otter"
+   }
+  ],
+  "cta": "Which one surprised you? Save and share this.",
+  "caption": "Nature is full of plot twists. Which animal is your favourite?"
+ },
+ {
+  "category": "facts",
+  "hook": "Earth facts that put things in perspective",
+  "image": "planet earth landscape",
+  "points": [
+   {
+    "text": "More than 80% of the ocean is still unexplored.",
+    "image": "deep ocean waves"
+   },
+   {
+    "text": "Antarctica is the driest continent on Earth.",
+    "image": "antarctica ice"
+   },
+   {
+    "text": "The Pacific Ocean is bigger than all the land on Earth combined.",
+    "image": "pacific ocean aerial"
+   },
+   {
+    "text": "Lightning is hotter than the surface of the Sun.",
+    "image": "lightning storm"
+   },
+   {
+    "text": "Mount Everest grows by about 4 millimetres a year.",
+    "image": "mount everest"
+   }
+  ],
+  "cta": "Which one surprised you? Save and share this.",
+  "caption": "Earth is still full of mysteries. Which fact put things in perspective for you?"
+ },
+ {
+  "category": "facts",
+  "hook": "History facts that feel wrong (but aren't)",
+  "image": "ancient history ruins",
+  "points": [
+   {
+    "text": "Oxford University is older than the Aztec Empire.",
+    "image": "oxford university"
+   },
+   {
+    "text": "Cleopatra lived closer in time to the Moon landing than to the Great Pyramid's construction.",
+    "image": "pyramids egypt"
+   },
+   {
+    "text": "The Great Wall of China isn't visible from space with the naked eye.",
+    "image": "great wall china"
+   },
+   {
+    "text": "The Anglo-Zanzibar War of 1896 lasted about 40 minutes.",
+    "image": "zanzibar coast"
+   },
+   {
+    "text": "There's no evidence Vikings wore horned helmets.",
+    "image": "viking ship"
+   }
+  ],
+  "cta": "Which one surprised you? Save and share this.",
+  "caption": "History loves to surprise us. Which one did you believe the wrong way?"
+ },
+ {
+  "category": "facts",
+  "hook": "Food facts you've been believing wrong",
+  "image": "fresh food market",
+  "points": [
+   {
+    "text": "Bananas are berries. Strawberries are not.",
+    "image": "bananas"
+   },
+   {
+    "text": "Peanuts aren't nuts. They're legumes.",
+    "image": "peanuts"
+   },
+   {
+    "text": "Apples are about 25% air, which is why they float.",
+    "image": "apples orchard"
+   },
+   {
+    "text": "Ketchup was sold as medicine in the 1830s.",
+    "image": "ketchup tomato"
+   },
+   {
+    "text": "A pineapple takes about two years to grow.",
+    "image": "pineapple"
+   }
+  ],
+  "cta": "Which one surprised you? Save and share this.",
+  "caption": "Your pantry is full of surprises. Which one are you telling someone today?"
+ },
+ {
+  "category": "facts",
+  "hook": "Tech origins nobody expects",
+  "image": "technology desk",
+  "points": [
+   {
+    "text": "The first email was sent in 1971.",
+    "image": "laptop email"
+   },
+   {
+    "text": "The first computer mouse was made of wood.",
+    "image": "computer mouse"
+   },
+   {
+    "text": "Google's original name was Backrub.",
+    "image": "search magnifying glass"
+   },
+   {
+    "text": "Nintendo started in 1889 as a playing card company.",
+    "image": "playing cards"
+   },
+   {
+    "text": "The first webcam was pointed at a coffee pot.",
+    "image": "coffee pot"
+   }
+  ],
+  "cta": "Which one surprised you? Save and share this.",
+  "caption": "Every big thing started small and strange. Which origin surprised you?"
+ },
+ {
+  "category": "facts",
+  "hook": "Your brain does these things daily",
+  "image": "brain mind",
+  "points": [
+   {
+    "text": "Your brain isn't multitasking. It's switching between tasks very quickly.",
+    "image": "multitasking desk"
+   },
+   {
+    "text": "You can't tickle yourself because your brain predicts your own touch.",
+    "image": "tickle laughing child"
+   },
+   {
+    "text": "Music can bring back vivid memories you thought you'd lost.",
+    "image": "headphones music"
+   },
+   {
+    "text": "During sleep, your brain clears out waste products.",
+    "image": "sleeping bed"
+   },
+   {
+    "text": "Yawning is contagious, even just reading about it.",
+    "image": "yawning"
+   }
+  ],
+  "cta": "Which one surprised you? Save and share this.",
+  "caption": "Did you just yawn? Be honest. Which fact was new to you?"
+ },
+ {
+  "category": "facts",
+  "hook": "India facts worth knowing",
+  "image": "india culture",
+  "points": [
+   {
+    "text": "Chess has its roots in ancient India, in a game called chaturanga.",
+    "image": "chess board"
+   },
+   {
+    "text": "The word 'shampoo' comes from the Hindi word 'champo'.",
+    "image": "hair care"
+   },
+   {
+    "text": "India has one of the largest postal networks in the world.",
+    "image": "india post box"
+   },
+   {
+    "text": "Indian Railways is one of the world's largest employers.",
+    "image": "indian railway train"
+   },
+   {
+    "text": "India's Constitution recognises 22 scheduled languages.",
+    "image": "india street market"
+   }
+  ],
+  "cta": "Which one surprised you? Save and share this.",
+  "caption": "How many of these did you know? Tell us your favourite India fact."
+ },
+ {
+  "category": "facts",
+  "hook": "Giants that started strangely",
+  "image": "business startup office",
+  "points": [
+   {
+    "text": "Amazon began as an online bookstore.",
+    "image": "books stack"
+   },
+   {
+    "text": "Nokia started in 1865 as a pulp and paper mill.",
+    "image": "paper mill forest"
+   },
+   {
+    "text": "Instagram began as a check-in app called Burbn.",
+    "image": "smartphone"
+   },
+   {
+    "text": "Netflix started by mailing DVDs to customers.",
+    "image": "dvd discs"
+   },
+   {
+    "text": "Coca-Cola was invented by a pharmacist in 1886.",
+    "image": "soda bottle"
+   }
+  ],
+  "cta": "Which one surprised you? Save and share this.",
+  "caption": "Nobody starts at the top. What's your 'Burbn' that could become something big?"
+ },
+ {
+  "category": "facts",
+  "hook": "Nature facts that feel unreal",
+  "image": "forest nature",
+  "points": [
+   {
+    "text": "Rainbows are actually full circles. We usually see only an arc.",
+    "image": "rainbow"
+   },
+   {
+    "text": "The Sahara was green and full of lakes thousands of years ago.",
+    "image": "sahara desert"
+   },
+   {
+    "text": "Young sunflowers follow the Sun across the sky.",
+    "image": "sunflower field"
+   },
+   {
+    "text": "Some bamboo can grow almost a metre in a single day.",
+    "image": "bamboo forest"
+   },
+   {
+    "text": "Snowflakes form with six-fold symmetry.",
+    "image": "snowflake macro"
+   }
+  ],
+  "cta": "Which one surprised you? Save and share this.",
+  "caption": "Nature has the best plot twists. Which one will you look for next?"
+ },
+ {
+  "category": "facts",
+  "hook": "Sports facts that sound made up",
+  "image": "sports stadium",
+  "points": [
+   {
+    "text": "Basketball was first played with peach baskets in 1891.",
+    "image": "basketball hoop"
+   },
+   {
+    "text": "An astronaut hit golf balls on the Moon in 1971.",
+    "image": "golf course"
+   },
+   {
+    "text": "The marathon distance of 42.195 km was set at the 1908 London Olympics.",
+    "image": "marathon runners"
+   },
+   {
+    "text": "The first international cricket match was USA vs Canada in 1844.",
+    "image": "cricket field"
+   },
+   {
+    "text": "Usain Bolt's 100 m world record is 9.58 seconds.",
+    "image": "sprinter track"
+   }
+  ],
+  "cta": "Which one surprised you? Save and share this.",
+  "caption": "Sports history is wild. Which fact will you quote to a friend?"
  }
 ]
