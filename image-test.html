@@ -59,6 +59,17 @@
       <button id="clear" class="secondary full" type="button">Clear key & result</button>
     </form>
 
+    <section class="unsplash-panel">
+      <h2>Unsplash contextual image search</h2>
+      <p>Search Unsplash for a real photograph instead of generating one with Gemini.</p>
+      <label for="unsplash-key">Unsplash Access Key</label>
+      <input id="unsplash-key" type="password" autocomplete="off" spellcheck="false" placeholder="Paste your Unsplash Access Key">
+      <label for="unsplash-query">Search query</label>
+      <input id="unsplash-query" type="text" maxlength="120" placeholder="emotionally distant couple">
+      <button id="unsplash-search" class="primary" type="button">Search Unsplash</button>
+      <div id="unsplash-results" class="unsplash-results"></div>
+    </section>
+
     <section id="status" class="status" aria-live="polite"></section>
 
     <section id="result" class="result" hidden>
