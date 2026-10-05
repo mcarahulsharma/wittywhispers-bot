@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta http-equiv="Content-Security-Policy"
-        content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: blob:; connect-src https://generativelanguage.googleapis.com; object-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'">
+        content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: blob: https://images.unsplash.com; connect-src https://generativelanguage.googleapis.com https://api.unsplash.com; object-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'">
   <title>Gemini Image Test — WittyWhispers</title>
   <link rel="stylesheet" href="./image-test.css">
 </head>
@@ -64,6 +64,9 @@
       <p>Search Unsplash for a real photograph instead of generating one with Gemini.</p>
       <label for="unsplash-key">Unsplash Access Key</label>
       <input id="unsplash-key" type="password" autocomplete="off" spellcheck="false" placeholder="Paste your Unsplash Access Key">
+      <label for="unsplash-secret">Unsplash Secret Key</label>
+      <input id="unsplash-secret" type="password" autocomplete="off" spellcheck="false" placeholder="Paste your Unsplash Secret Key">
+      <p class="field-note">For photo search, Unsplash uses the Access Key. The Secret Key is accepted here for testing, kept only in this tab, and is not sent with photo-search requests.</p>
       <label for="unsplash-query">Search query</label>
       <input id="unsplash-query" type="text" maxlength="120" placeholder="emotionally distant couple">
       <button id="unsplash-search" class="primary" type="button">Search Unsplash</button>
