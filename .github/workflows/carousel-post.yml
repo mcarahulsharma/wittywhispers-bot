@@ -2,7 +2,7 @@ name: Post carousel
 
 on:
   schedule:
-    - cron: "30 3 * * *"   # every day at 03:30 UTC = 09:00 AM IST
+    - cron: "30 14 * * *"   # every day at 14:30 UTC = 08:00 PM IST
   workflow_dispatch:
 
 permissions:
@@ -50,6 +50,6 @@ jobs:
       - name: Save progress
         run: |
           git add carousel_state.json
-          git commit -m "Update carousel state" || echo "nothing to commit"
+          git commit -m "Update state" || echo "nothing to commit"
           git pull --rebase
           git push
