@@ -26,6 +26,10 @@ jobs:
         run: pip install pillow
 
       - name: Generate carousel slides
+        env:
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: python carousel.py generate
 
       - name: Push slides so Instagram can fetch them
