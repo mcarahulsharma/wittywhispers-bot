@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: blob:; connect-src https://generativelanguage.googleapis.com; object-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'">
+  <title>Gemini Image Test — WittyWhispers</title>
+  <link rel="stylesheet" href="./image-test.css">
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <span class="eyebrow">WittyWhispers • private test tool</span>
+      <h1>Gemini Image Generator</h1>
+      <p class="intro">Test Google Gemini image generation before wiring it into the carousel pipeline.</p>
+    </header>
+
+    <section class="notice">
+      <strong>Security:</strong> Your API key is kept only in this browser tab's memory.
+      It is sent directly to Google and is never saved, logged, or sent to this repository.
+      Do not use this page for a production/shared application.
+    </section>
+
+    <form id="generator-form" autocomplete="off">
+      <label for="api-key">Google Gemini API key</label>
+      <div class="key-row">
+        <input id="api-key" name="api-key" type="password" autocomplete="off"
+               spellcheck="false" placeholder="Paste your Gemini API key" required>
+        <button type="button" id="toggle-key" class="secondary">Show</button>
+      </div>
+
+      <label for="prompt">Image prompt</label>
+      <textarea id="prompt" name="prompt" rows="6" required
+        placeholder="A cinematic, realistic photograph of a couple sitting silently on opposite ends of a sofa, subtle emotional distance, warm evening light, no text, vertical social-media composition."></textarea>
+
+      <div class="options">
+        <div>
+          <label for="aspect-ratio">Aspect ratio</label>
+          <select id="aspect-ratio">
+            <option value="5:4" selected>5:4 — carousel</option>
+            <option value="4:5">4:5</option>
+            <option value="1:1">1:1</option>
+            <option value="16:9">16:9</option>
+            <option value="9:16">9:16</option>
+          </select>
+        </div>
+        <div>
+          <label for="image-size">Image size</label>
+          <select id="image-size">
+            <option value="1K" selected>1K</option>
+            <option value="2K">2K</option>
+            <option value="4K">4K</option>
+          </select>
+        </div>
+      </div>
+
+      <button id="generate" class="primary" type="submit">Generate image</button>
+      <button id="clear" class="secondary full" type="button">Clear key & result</button>
+    </form>
+
+    <section id="status" class="status" aria-live="polite"></section>
+
+    <section id="result" class="result" hidden>
+      <div class="result-head">
+        <h2>Generated image</h2>
+        <button id="download" class="secondary" type="button">Download</button>
+      </div>
+      <img id="generated-image" alt="Generated image">
+    </section>
+
+    <footer>
+      <p>Model: <code>gemini-3.1-flash-image</code> • Direct browser test only</p>
+    </footer>
+  </main>
+  <script src="./image-test.js" defer></script>
+</body>
+</html>
